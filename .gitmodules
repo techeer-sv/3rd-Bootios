@@ -1,6 +1,6 @@
 [submodule "backend"]
 	path = backend
 	url = https://github.com/TecheerBootios/RUAlone-Backend.git
-[submodule "client"]
-	path = client
+[submodule "ios"]
+	path = ios
 	url = https://github.com/TecheerBootios/RUAlone-iOS.git
